@@ -17,5 +17,8 @@
     "url": "https://github.com/leejuhanKr/vanila-js-webpack-tutorial/issues"
   },
   "homepage": "https://github.com/leejuhanKr/vanila-js-webpack-tutorial#readme",
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "webpack-cli": "^4.10.0"
+  }
 }
