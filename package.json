@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/leejuhanKr/vanila-js-webpack-tutorial/issues"
   },
-  "homepage": "https://github.com/leejuhanKr/vanila-js-webpack-tutorial#readme"
+  "homepage": "https://github.com/leejuhanKr/vanila-js-webpack-tutorial#readme",
+  "type": "module"
 }
